@@ -1,5 +1,5 @@
 # Project Name : Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD
-1723006676784.jpg
+![1723006676784](https://github.com/user-attachments/assets/defea1cd-a7ea-41b1-ac67-194b973138c5)
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
 
 Prerequisites:
